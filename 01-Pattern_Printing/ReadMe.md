@@ -1,1 +1,3 @@
+Pattern Questions
 
+Print these patterns using loops:
